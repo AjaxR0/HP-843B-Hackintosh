@@ -534,17 +534,17 @@
 			<key>AdviseWindows</key>
 			<false/>
 			<key>MLB</key>
-			<string>// [Hidden. Click to show]("https://www.youtube.com/watch?v=dQw4w9WgXcQ").</string>
+			<string>README.md</string>
 			<key>ROM</key>
-			<string>// [Hidden. Click to show]("https://www.youtube.com/watch?v=dQw4w9WgXcQ").</string>
+			<string>README.md</string>
 			<key>SpoofVendor</key>
 			<true/>
 			<key>SystemProductName</key>
 			<string>iMac18,3</string>
 			<key>SystemSerialNumber</key>
-			<string>// [Hidden. Click to show]("https://www.youtube.com/watch?v=dQw4w9WgXcQ").</string>
+			<string>README.md</string>
 			<key>SystemUUID</key>
-			<string>// [Hidden. Click to show]("https://www.youtube.com/watch?v=dQw4w9WgXcQ").</string>
+			<string>README.md</string>
 		</dict>
 		<key>UpdateDataHub</key>
 		<true/>
